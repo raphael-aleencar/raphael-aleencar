@@ -20,7 +20,7 @@ jobs:
       - uses: Platane/checkout@v2
 
     # Repositorio que será utilizado para gerar os arquivos.
-      - uses: raphael-aleencar/snk@master
+      - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: raphael-aleencar #Seu usuario
