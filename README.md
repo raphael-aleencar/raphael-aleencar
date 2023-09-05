@@ -41,4 +41,4 @@ Connect With Me
 
 ###
 
-![snake gif](https://github.com/raphael-aleencar/raphael-aleencar/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/raphael-aleencar/raphael-aleencar/blob/output/github-contribution-grid-snake.gif)
