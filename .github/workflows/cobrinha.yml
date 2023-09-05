@@ -20,10 +20,10 @@ jobs:
       - uses: actions/checkout@v2
 
     # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@master
+      - uses: raphael-aleencar/snk@master
         id: snake-gif
         with:
-          github_user_name: raphael-alencar #Seu usuario
+          github_user_name: raphael-aleencar #Seu usuario
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
